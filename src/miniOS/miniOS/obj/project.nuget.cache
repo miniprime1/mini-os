@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5RLxJugwKSvGKCjqpNPBbbYvLhDG8ojE8NFfpSEwkPdfIeK62ecTxgDqbY4shYivMzTICx876Gb6A5+OZwxUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minip\\source\\repos\\miniOS\\miniOS\\miniOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minip\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20210914115710\\cosmos.build.0.1.0-localbuild20210914115710.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20210914115710\\cosmos.common.0.1.0-localbuild20210914115710.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20210914115710\\cosmos.core.0.1.0-localbuild20210914115710.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20210914115710\\cosmos.debug.kernel.0.1.0-localbuild20210914115710.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20210914115710\\cosmos.hal2.0.1.0-localbuild20210914115710.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20210914115710\\cosmos.system2.0.1.0-localbuild20210914115710.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20210914115710\\il2cpu.api.0.1.0-localbuild20210914115710.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\microsoft.netcore.app\\2.0.9\\microsoft.netcore.app.2.0.9.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.9\\microsoft.netcore.dotnetapphost.2.0.9.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.9\\microsoft.netcore.dotnethostpolicy.2.0.9.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.9\\microsoft.netcore.dotnethostresolver.2.0.9.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.2\\microsoft.netcore.platforms.2.0.2.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.app\\2.0.9\\runtime.win-x86.microsoft.netcore.app.2.0.9.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnetapphost\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnetapphost.2.0.9.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnethostpolicy\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnethostpolicy.2.0.9.nupkg.sha512",
+    "C:\\Users\\minip\\.nuget\\packages\\runtime.win-x86.microsoft.netcore.dotnethostresolver\\2.0.9\\runtime.win-x86.microsoft.netcore.dotnethostresolver.2.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

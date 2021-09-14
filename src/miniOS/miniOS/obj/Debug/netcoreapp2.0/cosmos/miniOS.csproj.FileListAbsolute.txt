@@ -1,0 +1,10 @@
+C:\Users\minip\source\repos\miniOS\miniOS\bin\Debug\netcoreapp2.0\cosmos\miniOS.deps.json
+C:\Users\minip\source\repos\miniOS\miniOS\bin\Debug\netcoreapp2.0\cosmos\miniOS.dll
+C:\Users\minip\source\repos\miniOS\miniOS\bin\Debug\netcoreapp2.0\cosmos\miniOS.pdb
+C:\Users\minip\source\repos\miniOS\miniOS\obj\Debug\netcoreapp2.0\cosmos\miniOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minip\source\repos\miniOS\miniOS\obj\Debug\netcoreapp2.0\cosmos\miniOS.AssemblyInfoInputs.cache
+C:\Users\minip\source\repos\miniOS\miniOS\obj\Debug\netcoreapp2.0\cosmos\miniOS.AssemblyInfo.cs
+C:\Users\minip\source\repos\miniOS\miniOS\obj\Debug\netcoreapp2.0\cosmos\miniOS.csproj.CoreCompileInputs.cache
+C:\Users\minip\source\repos\miniOS\miniOS\obj\Debug\netcoreapp2.0\cosmos\miniOS.dll
+C:\Users\minip\source\repos\miniOS\miniOS\obj\Debug\netcoreapp2.0\cosmos\miniOS.pdb
+C:\Users\minip\source\repos\miniOS\miniOS\obj\Debug\netcoreapp2.0\cosmos\miniOS.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniOS", "miniOS\miniOS.csproj", "{26814696-56B9-4141-8E1F-6719877C4473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26814696-56B9-4141-8E1F-6719877C4473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26814696-56B9-4141-8E1F-6719877C4473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26814696-56B9-4141-8E1F-6719877C4473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26814696-56B9-4141-8E1F-6719877C4473}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05B165C9-BE54-4F54-9763-4C56936E5F24}
+	EndGlobalSection
+EndGlobal
